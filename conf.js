@@ -30,7 +30,7 @@ jsproxy_config({
       lines: [
         // 实验中...
         // 参考 https://github.com/EtherDream/jsproxy/tree/master/cf-worker
-        'https://shy-river-d010.zx.workers.dev/'
+        'shy-river-d010.zx.workers.dev'
       ]
     }
   },
